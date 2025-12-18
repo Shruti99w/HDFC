@@ -1,0 +1,9 @@
+branch_id,branch_name,city,region
+BR100,Andheri,Mumbai,West
+BR101,Bandra,Mumbai,West
+BR102,Powai,Mumbai,West
+BR103,Indiranagar,Bengaluru,South
+BR104,Koramangala,Bengaluru,South
+BR105,HitechCity,Hyderabad,South
+BR106,Gachibowli,Hyderabad,South
+BR107,SaltLake,Kolkata,East
