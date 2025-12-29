@@ -1,0 +1,7 @@
+product_id,product_name,product_group
+P01,Savings Account,Savings
+P02,Current Account,Current
+P03,Fixed Deposit,Deposit
+P04,Home Loan,Loan
+P05,Personal Loan,Loan
+P06,Credit Card,Card
