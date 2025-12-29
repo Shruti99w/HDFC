@@ -1,0 +1,21 @@
+branch_id,branch_name,region,state,city
+B001,HDFC Branch 1,North,State_1,City_12
+B002,HDFC Branch 2,East,State_4,City_4
+B003,HDFC Branch 3,South,State_2,City_11
+B004,HDFC Branch 4,North,State_7,City_1
+B005,HDFC Branch 5,North,State_2,City_4
+B006,HDFC Branch 6,South,State_1,City_9
+B007,HDFC Branch 7,South,State_7,City_4
+B008,HDFC Branch 8,West,State_5,City_13
+B009,HDFC Branch 9,North,State_3,City_12
+B010,HDFC Branch 10,West,State_6,City_5
+B011,HDFC Branch 11,South,State_4,City_13
+B012,HDFC Branch 12,East,State_2,City_2
+B013,HDFC Branch 13,West,State_2,City_6
+B014,HDFC Branch 14,East,State_5,City_13
+B015,HDFC Branch 15,North,State_8,City_9
+B016,HDFC Branch 16,North,State_7,City_2
+B017,HDFC Branch 17,East,State_6,City_10
+B018,HDFC Branch 18,South,State_2,City_1
+B019,HDFC Branch 19,South,State_5,City_2
+B020,HDFC Branch 20,South,State_2,City_7
